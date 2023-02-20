@@ -8,10 +8,8 @@ The full project details can be found here https://obukofe.notion.site/obukofe/S
 
 ### This project makes use of the Lagos Metropolitan BRT (Bus Rapid Transit) System.
 
-<aside>
 💡 *A Bus Rapid Transit System is defined as a high-quality bus-based transit system that delivers fast, comfortable and cost-effective services at metro-level capacities. It does this through the provision of dedicated lanes with busways and stations/terminals aligned for fare collections and operational purposes.*
 
-</aside>
 
 Jane, the managing director of the Lagos Metropolitan BRT service is having a bit of trouble managing her database. As well as database management, she intends to ask important questions like *“What are the top locations based on arrival popularity?”* or *“Who are the top performing drivers?”.* 
 
@@ -21,6 +19,8 @@ She uses a Microsoft Excel Sheet to keep track of the passengers registered unde
 ## Schema Design
 
 Here is the schema design for this survey
+
+
 ![image](https://user-images.githubusercontent.com/13979269/220179375-b60b82da-6a9b-4cd1-bd03-4b2629602671.png)
 
 
