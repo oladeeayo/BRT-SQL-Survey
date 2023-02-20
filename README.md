@@ -2,9 +2,11 @@
 
 The full project details can be found here https://obukofe.notion.site/obukofe/SQL-Survey-501f61a843ab4a60879e60601eedeaac
 
+
+
 ## Synopsis
 
-**This project makes use of the Lagos Metropolitan BRT (Bus Rapid Transit) System.** 
+### This project makes use of the Lagos Metropolitan BRT (Bus Rapid Transit) System.
 
 <aside>
 💡 *A Bus Rapid Transit System is defined as a high-quality bus-based transit system that delivers fast, comfortable and cost-effective services at metro-level capacities. It does this through the provision of dedicated lanes with busways and stations/terminals aligned for fare collections and operational purposes.*
@@ -16,7 +18,7 @@ Jane, the managing director of the Lagos Metropolitan BRT service is having a bi
 She uses a Microsoft Excel Sheet to keep track of the passengers registered under the system, the trips they make on a daily basis, the drivers handling those trips, as well as the bus fleet and the details about each bus carrying passengers. She also records the licenses of the drivers as well as their phone numbers to make sure she has well-experienced, accountable and license-valid drivers in her company. The major issue however that Jane is facing is data management. She’s losing track of the trip information and her ‘database’ is also looking a lot messier than when it started. She needs our help!
 
 
-##Schema Design
+## Schema Design
 
 Here is the schema design for this survey
 ![image](https://user-images.githubusercontent.com/13979269/220179375-b60b82da-6a9b-4cd1-bd03-4b2629602671.png)
